@@ -8,6 +8,7 @@
 #     print("10% chegirma")
 # else:
 #     print("15% chegirma")
+# from html.parser import attrfind_tolerant
 
 # 2-masala 🚦 Yo‘l harakati chirog‘i maslahati
 # rang = input("Svetofor rangini kiriting:")
@@ -92,3 +93,41 @@
 #         print(f"Summa: {3000 * masofa} so'm.")
 # else:
 #     print("Qiymat xato kiritildi!")
+jins =input("Jinsingizni kiriting:").lower()
+yosh =input("Yosh kiriting:")
+
+# if jins == "ayol" and yosh.isdigit():
+#     age = int(yosh)
+#     n_y = age - 55
+#     if age >= 55:
+#         if n_y < 0:
+#             print(f"Assalomu aleykum hurmatli buvijon/nSiz bu yil nafaqaga chiqdingiz")
+#         else:
+#             print(f"Assalomu aleykum hurmatli buvijon/nSiz {yosh - 55} yildan beri nafaqa olasiz")
+#
+# elif jins == "erkak" and yosh.isdigit():
+#   age = int(yosh)
+#   n_y = age - 60
+#   if age >= 60:
+#     if n_y < 0:
+#             print(f"Assalomu aleykum hurmatli buvijon/nSiz bu yil nafaqaga chiqdingiz")
+#        else:
+#             print(f"Assalomu aleykum hurmatli buvijon/nSiz {yosh - 55} yildan beri nafaqa olasiz")
+#        else:
+#             print("Siz nafaqa yoshda emasiz")
+#        else:
+#             print("Maqsimum yosh chegarasi 120 yosh")
+#       else:
+#             print("malmot notogri kiritingiz!")
+
+
+
+
+
+
+
+
+
+
+
+
